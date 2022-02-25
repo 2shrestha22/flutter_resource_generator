@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'package:yaml/yaml.dart';
 import 'package:path/path.dart';
+import 'package:yaml/yaml.dart';
 
 import 'filter.dart';
 import 'format.dart';
